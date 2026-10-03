@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "applynix"
+version = "0.1.0"
+description = "Evidence-linked job application preparation and tracking"
+requires-python = ">=3.10"
+license = {text = "MIT"}
+authors = [{name = "sysn1xlabs"}]
+dependencies = []
+
+[project.scripts]
+applynix = "applynix.cli:main"
+
+[tool.setuptools.package-data]
+applynix = ["profile.example.json", "dashboard.html"]
+
+[tool.setuptools.packages.find]
+include = ["applynix*"]

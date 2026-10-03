@@ -1,0 +1,10 @@
+Company: Example Technologies
+Title: Service Desk Analyst
+Location: Example City
+Requirements:
+Windows 11, Active Directory, Microsoft 365, DNS, VPN and ticketing experience required.
+1 year of relevant experience required.
+Preferred:
+ServiceNow and ITIL preferred.
+Responsibilities:
+Resolve user incidents and escalate unresolved tickets.

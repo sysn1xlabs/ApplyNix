@@ -1,0 +1,9 @@
+{
+  "personal": {"name": "Alex Example", "email": "alex@example.com", "phone": "+00 0000000000", "location": "Example City"},
+  "summary": "IT support trainee with practical experience troubleshooting Windows systems and desktop hardware.",
+  "skills": ["Linux", "Hardware troubleshooting", "Windows 10 and Windows 11", "Active Directory password resets", "Microsoft 365", "DNS", "DHCP", "VPN", "Printer troubleshooting"],
+  "experience": [{"company": "Example Computer Services", "title": "IT Support Trainee", "dates": "Jan 2025 – Jun 2025", "bullets": ["Installed printers and diagnosed hardware problems.", "Troubleshot Windows systems and VPN connectivity.", "Practised Active Directory password resets in a training lab."]}],
+  "education": ["Bachelor's degree in Information Technology — Example University"],
+  "certifications": [],
+  "projects": []
+}
